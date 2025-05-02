@@ -47,7 +47,7 @@ pip install opencv-python numpy
 - **Bounding Box Creation:** `cv2.boundingRect()`
 - **Vehicle Tracking & Counting:** Tracks object center positions and increments the counter when a vehicle crosses the detection line.
 
-## 📺 Screenshots
+## 📺 Screenshots -
 ![Screenshot (11)](https://github.com/user-attachments/assets/24201aae-dfbe-4bcc-b9f3-40a66e19052b)
 ![Screenshot (12)](https://github.com/user-attachments/assets/36f0014a-0baf-4bf7-bc6e-14e9ba1f78e5)
 ![Screenshot (13)](https://github.com/user-attachments/assets/66fd5b02-dfd3-4d60-a038-e37406bdf76f) 
