@@ -36,7 +36,7 @@ pip install opencv-python numpy
    ```bash
    python vehicle_tracking.py
    ```
-
+ 
 4. **Press 'q' to exit the program.**
 
 ## 📝 Code Explanation
