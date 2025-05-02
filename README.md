@@ -12,7 +12,7 @@ This project is a **Vehicle Tracking and Counting System** built using **OpenCV*
 - Displays real-time count overlay on the video
 
 ## 🛠️ Technologies Used
-- **Python**
+- **Python** 
 - **OpenCV**
 - **NumPy**
 
