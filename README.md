@@ -56,7 +56,7 @@ pip install opencv-python numpy
 ## 🔥 Future Improvements
 - Implement **YOLO** or **Deep Learning** for better accuracy
 - Track vehicle speed and classify vehicle types
-- Support real-time **webcam** input
+- Support real-time **webcam** input 
 
 ## 🤝 Contribution
 Feel free to fork, improve, and submit a **pull request**. Suggestions and improvements are welcome!
